@@ -1,5 +1,8 @@
-We labelled 21775 lesions which had previously been unlabeled in the DeepLesion dataset(https://www.nih.gov/news-events/news-releases/nih-clinical-center-releases-dataset-32000-ct-images).
+Our paper is currently in press in the Journal of Applied Clinical Medical Physics.
 
-Our zip file contains 54510 labelled lesions(32735 original labels + 21775 new labels) and is divided into training, validation, and testing sets in COCO Json format.
+We have labeled 21,775 lesions that were previously unlabeled in the DeepLesion dataset (https://www.nih.gov/news-events/news-releases/nih-clinical-center-releases-dataset-32000-ct-images).
 
-The image files are at https://nihcc.app.box.com/v/DeepLesion
+Our ZIP file contains a total of 54,510 labeled lesions (32,735 original labels + 21,775 new labels) and is divided into training, validation, and testing sets in COCO JSON format.
+
+The image files can be accessed at: https://nihcc.app.box.com/v/DeepLesion
+
